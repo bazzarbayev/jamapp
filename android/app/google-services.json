@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447491733029",
+    "project_id": "jameson-j-family",
+    "storage_bucket": "jameson-j-family.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447491733029:android:7e94789d2d7731d2d271cc",
+        "android_client_info": {
+          "package_name": "kz.jameson.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447491733029-s6imtq6tt4k9sajcd75m5pa69035gtgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZPCsc0LSTslvIoZeci6i_I_Swlu74Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447491733029-s6imtq6tt4k9sajcd75m5pa69035gtgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
